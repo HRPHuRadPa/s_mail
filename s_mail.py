@@ -57,10 +57,10 @@ print("")
 print(" Link : https://myaccount.google.com/lesssecureapps?pli=1 ")
 print("")
 print("")
-kullanici_ad = raw_input("Gmail adresi >  ")
+kullanici_ad = input("Gmail adresi >  ")
 print("Hata kodu verirse linkte olan ayari kapat")
 print(" ")
-parola = raw_input("Gmail Parola > ")
+parola = input("Gmail Parola > ")
  
  
 baglanti = smtplib.SMTP("smtp.gmail.com",587)
@@ -69,8 +69,8 @@ baglanti.login(kullanici_ad,parola)
 print(bcolor.kirmizi+"Giris Basarili") 
 print("")
 
-hedef = raw_input(bcolor.beyaz+"Hedef Gmail > ")
-mesaj = raw_input("Mesajiniz >  ")
+hedef = input(bcolor.beyaz+"Hedef Gmail > ")
+mesaj = input("Mesajiniz >  ")
 
 
 say = 1
