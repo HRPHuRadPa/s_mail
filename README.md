@@ -1,7 +1,7 @@
 Programin kotuye kullanilmasinin sorumlulugu tamamiyle kullaniciya aittir.
 
-Yazar instagram : hrp_huradpa_
-yazar GitHUb : https://github.com/HRPHuRadPa
+Yazar instagram : huseyin.138
+yazar GitHub : https://github.com/HRPHuRadPa
 
 
 
@@ -16,5 +16,5 @@ Eger hedef maili yanlis girerseniz mail size geri gelecektir.
 
 Eger cok fazla mesaj atarsaniz bir sure sonra programin hata vermesi normaldir.
 
-Her turlu sorunuzu instagramdan bana ( hrp_huradpa_ )   sorabilirsiniz.
+Her turlu sorunuzu instagramdan bana ( huseyin.138 )   sorabilirsiniz.
 
